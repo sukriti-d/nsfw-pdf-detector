@@ -3,4 +3,4 @@ uvicorn
 pillow
 PyMuPDF
 numpy
-nsfwlib  # Replace with actual NSFW library like nsfw-detector if needed
+nsfw-detector
