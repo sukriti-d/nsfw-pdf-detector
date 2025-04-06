@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-pillow
-PyMuPDF
-numpy
+pymupdf==1.23.4
+numpy==1.24.3
 nsfw-detector
+python-multipart
